@@ -18,13 +18,6 @@ I am currently working with the Flutter framework and utilizing the Firebase pla
 <img src="https://media.discordapp.net/attachments/673875945198714920/1124433496593674392/Github_Tools.png" align="right" style="margin-bottom: 20px;">
 
 
-<h3>
-My Progress 📊
-</h3>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elakalyn&theme=dark&hide_border=true&border_radius=47)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elakalyn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
