@@ -5,7 +5,7 @@
 <h1>
 Welcome to my profile! 👋
 </h1>
-Thanks for stopping by! My name is Omar Elakaly. I'm an ambitious developer and digital creator with a passion for producing charming, intuitive and engaging experiences. As a perfectionist, I'm committed to crafting unique experiences and challenging the limits of what's achieveable to create something truly exceptional and one of a kind. In addition to having a vigorous work ethic, I also appreciate all opportunities to work collaboratively with others to bring new and creative ideas to life. I'm a lifelong learner and continually strive to stay up to date with the latest technologies and trends. My goal is to make a long lasting impact through the work I produce.  
+Thanks for stopping by! My name is Omar Elakaly. I'm an ambitious developer and digital creator with a passion for producing charming, intuitive and engaging experiences. I'm committed to crafting unique experiences and challenging the limits of what's achieveable to create something truly exceptional. I also appreciate all opportunities to work collaboratively with others to bring new ideas to life. I'm a lifelong learner and continually strive to stay up to date with the latest technologies. My goal is to make a lasting impact through the work I produce.
 
 
 
